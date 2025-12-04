@@ -1,0 +1,179 @@
+{
+  "puzzles": [
+    {
+      "ascii_art_string": "  /\\_/\\  \n ( o.o ) \n  > ^ <",
+      "height_chars": 3,
+      "width_chars": 9,
+      "solution": "Cat",
+      "options": ["Dog", "Cat", "Rabbit", "Fox", "Mouse"]
+    },
+    {
+      "ascii_art_string": "    ___\n   /   \\\n  |     |\n   \\___/\n     |\n   / | \\\n  /  |  \\\n     |\n    / \\\n   /   \\",
+      "height_chars": 10,
+      "width_chars": 9,
+      "solution": "Person",
+      "options": ["Tree", "Robot", "Person", "Lamp", "Alien"]
+    },
+    {
+      "ascii_art_string": "     *\n    /|\\\n   / | \\\n  /  |  \\\n /   |   \\\n/____*____\\\n    |||",
+      "height_chars": 7,
+      "width_chars": 11,
+      "solution": "Christmas Tree",
+      "options": ["Mountain", "Pyramid", "Christmas Tree", "Arrow", "Tent"]
+    },
+    {
+      "ascii_art_string": "   __\n  /  \\\n |    |\n |    |\n |____|\n |    |\n |    |",
+      "height_chars": 7,
+      "width_chars": 7,
+      "solution": "Coffee Cup",
+      "options": ["Glass", "Bucket", "Coffee Cup", "Vase", "Trophy"]
+    },
+    {
+      "ascii_art_string": "  ___________\n /           \\\n|   O     O   |\n|      >      |\n|   \\_____/   |\n \\___________/",
+      "height_chars": 6,
+      "width_chars": 15,
+      "solution": "Smiley Face",
+      "options": ["Moon", "Smiley Face", "Clock", "Pizza", "Sun"]
+    },
+    {
+      "ascii_art_string": "    .--.\n   |o_o |\n   |:_/ |\n  //   \\ \\\n (|     | )\n/'\\_   _/`\\\n\\___)=(___/",
+      "height_chars": 7,
+      "width_chars": 12,
+      "solution": "Penguin",
+      "options": ["Penguin", "Duck", "Owl", "Panda", "Snowman"]
+    },
+    {
+      "ascii_art_string": "   |\\_/|\n   | @ @   Woof!\n   |   <>       _\n   |  _/\\------__| |\n   |               |\n   | ____________||\n   \\_/",
+      "height_chars": 7,
+      "width_chars": 22,
+      "solution": "Dog",
+      "options": ["Wolf", "Dog", "Bear", "Lion", "Cat"]
+    },
+    {
+      "ascii_art_string": "     _\n    /_\\\n   |   |\n   |   |\n   |   |\n  /|   |\\\n / |   | \\\n   |___|",
+      "height_chars": 8,
+      "width_chars": 10,
+      "solution": "Rocket",
+      "options": ["Pencil", "Rocket", "Tower", "Lighthouse", "Missile"]
+    },
+    {
+      "ascii_art_string": "  _____\n /     \\\n|  O O  |\n|   ^   |\n|  \\_/  |\n \\_____/\n   | |\n  _| |_",
+      "height_chars": 8,
+      "width_chars": 9,
+      "solution": "Robot",
+      "options": ["Robot", "Alien", "TV", "Computer", "Toaster"]
+    },
+    {
+      "ascii_art_string": "    /\\\n   /  \\\n  /    \\\n /      \\\n/________\\",
+      "height_chars": 5,
+      "width_chars": 10,
+      "solution": "Triangle",
+      "options": ["Mountain", "Pyramid", "Triangle", "Arrow", "Tent"]
+    },
+    {
+      "ascii_art_string": "   __/|\n  /    \\\n |  o o |\n |   L  |\n  \\____/",
+      "height_chars": 5,
+      "width_chars": 10,
+      "solution": "Mouse",
+      "options": ["Rat", "Hamster", "Mouse", "Rabbit", "Squirrel"]
+    },
+    {
+      "ascii_art_string": "  .-\"\"\"-.\n /        \\\n|          |\n|   .--.   |\n \\  '--'  /\n  '-....-'",
+      "height_chars": 6,
+      "width_chars": 12,
+      "solution": "Apple",
+      "options": ["Orange", "Apple", "Ball", "Tomato", "Cherry"]
+    },
+    {
+      "ascii_art_string": "   _____\n  |     |\n  | | | |\n  |     |\n  |_____|\n    | |",
+      "height_chars": 6,
+      "width_chars": 9,
+      "solution": "Gift",
+      "options": ["Box", "Gift", "TV", "Window", "Safe"]
+    },
+    {
+      "ascii_art_string": "    *  \n   ***\n  *****\n *******\n*********\n   |||",
+      "height_chars": 6,
+      "width_chars": 9,
+      "solution": "Tree",
+      "options": ["Tree", "Arrow", "Pyramid", "Mountain", "Cone"]
+    },
+    {
+      "ascii_art_string": "  ____\n /|   |\n/_|   |\n  |   |\n  |___|",
+      "height_chars": 5,
+      "width_chars": 8,
+      "solution": "Flag",
+      "options": ["Sign", "Flag", "Mailbox", "Birdhouse", "Banner"]
+    },
+    {
+      "ascii_art_string": "    ___\n   /   \\\n  |() ()|\n   \\   /\n    | |\n    | |\n   /   \\",
+      "height_chars": 7,
+      "width_chars": 9,
+      "solution": "Owl",
+      "options": ["Penguin", "Owl", "Parrot", "Eagle", "Chicken"]
+    },
+    {
+      "ascii_art_string": "  |\\___/|\n  )     (\n =\\     /=\n   )===(   \n  /     \\\n |       |\n/         \\\n\\    ^    /\n \\__||__/",
+      "height_chars": 9,
+      "width_chars": 11,
+      "solution": "Fox",
+      "options": ["Cat", "Dog", "Fox", "Wolf", "Raccoon"]
+    },
+    {
+      "ascii_art_string": "   _\n  ( )\n   H\n   H\n  /H\\\n / H \\\n/  H  \\",
+      "height_chars": 7,
+      "width_chars": 8,
+      "solution": "Trophy",
+      "options": ["Cup", "Trophy", "Lamp", "Chalice", "Vase"]
+    },
+    {
+      "ascii_art_string": "  .---.\n |     |\n |SLOT |\n |     |\n |_$_$_|\n [=====]",
+      "height_chars": 6,
+      "width_chars": 9,
+      "solution": "Slot Machine",
+      "options": ["ATM", "Vending Machine", "Slot Machine", "Jukebox", "Arcade"]
+    },
+    {
+      "ascii_art_string": "   .=.\n  '=.=\"=.`\n   .=\"=.\n    .=.",
+      "height_chars": 4,
+      "width_chars": 11,
+      "solution": "Diamond",
+      "options": ["Crystal", "Diamond", "Star", "Gem", "Ice"]
+    },
+    {
+      "ascii_art_string": "   __|__\n  /     \\\n | () () |\n  \\     /\n   -----\n  /|   |\\\n   |   |\n   |   |",
+      "height_chars": 8,
+      "width_chars": 11,
+      "solution": "Airplane",
+      "options": ["Bird", "Airplane", "Drone", "Helicopter", "Rocket"]
+    },
+    {
+      "ascii_art_string": "  o   o\n   \\ /\n   [ ]\n   / \\\n  o   o",
+      "height_chars": 5,
+      "width_chars": 8,
+      "solution": "Bow Tie",
+      "options": ["Butterfly", "Bow Tie", "Ribbon", "Candy", "Bowtie Pasta"]
+    },
+    {
+      "ascii_art_string": "   _________\n  |  12     |\n  |9   .  3 |\n  |    |    |\n  |____6____|",
+      "height_chars": 5,
+      "width_chars": 13,
+      "solution": "Clock",
+      "options": ["Watch", "Clock", "Compass", "Speedometer", "Timer"]
+    },
+    {
+      "ascii_art_string": "    __\n   /  \\\n  | /\\ |\n  | \\/ |\n   \\__/",
+      "height_chars": 5,
+      "width_chars": 8,
+      "solution": "Heart",
+      "options": ["Apple", "Heart", "Shield", "Badge", "Leaf"]
+    },
+    {
+      "ascii_art_string": "  _____\n |#####|\n |#####|\n |     |\n |_____|",
+      "height_chars": 5,
+      "width_chars": 9,
+      "solution": "Beer",
+      "options": ["Soda", "Beer", "Coffee", "Milkshake", "Juice"]
+    }
+  ]
+}
